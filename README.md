@@ -98,7 +98,7 @@ Collision and brodcast Domain Explained very nice](https://youtu.be/SpKGvLWDoC8)
 
 * ## [THG]()
   * Cours:
-    *
+    * [Algorithme Kruskal 1ere Version ](https://www.youtube.com/watch?v=f-bOFT0UmNI) - Sarah
     *
     *
     *
